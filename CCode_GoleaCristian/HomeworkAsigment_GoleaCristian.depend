@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1622715947 source:c:\users\crist\desktop\homeworkasigment_goleacristian\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linked_list.h"
+	"menu.h"
+
+1622714103 c:\users\crist\desktop\homeworkasigment_goleacristian\linked_list.h
+
+1622715700 source:c:\users\crist\desktop\homeworkasigment_goleacristian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"linked_list.h"
+	"menu.h"
+
+1622715899 source:c:\users\crist\desktop\homeworkasigment_goleacristian\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"menu.h"
+	"linked_list.h"
+
+1622715273 c:\users\crist\desktop\homeworkasigment_goleacristian\menu.h
+
+1622997369 source:c:\users\crist\desktop\ccode_goleacristian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"linked_list.h"
+	"menu.h"
+	<time.h>
+
+1622919012 c:\users\crist\desktop\ccode_goleacristian\linked_list.h
+
+1622715273 c:\users\crist\desktop\ccode_goleacristian\menu.h
+
+1622995853 source:c:\users\crist\desktop\ccode_goleacristian\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"menu.h"
+	"linked_list.h"
+
+1622997235 source:c:\users\crist\desktop\ccode_goleacristian\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linked_list.h"
+	"menu.h"
+
